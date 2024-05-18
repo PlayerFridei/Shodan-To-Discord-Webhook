@@ -12,4 +12,4 @@ This Python script but yet meant to be a server but fetches data from Shodan usi
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/shodan-discord-webhook.git
+git clone https://github.com/PlayerFridei/Shodan-To-Discord-Webhook
