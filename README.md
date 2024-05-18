@@ -1,4 +1,4 @@
-# Shodan To Discord Webhook
+# Shodan To Discord Webhook (Shodancord)
 
 This is a Python script but yet meant to be a server but fetches data from Shodan using the Shodan API and sends it to a Discord webhook. It can be used to monitor specific queries, such as IP cameras in a particular city, and send screenshots and information about them to a Discord channel.
 
